@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a Computer Science student in Bilkent University.
+I'm currently a Computer Science student at Bilkent University.
 
 <!--
 **caganaksoyy/caganaksoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
